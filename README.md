@@ -80,6 +80,10 @@ I’m passionate about **building modern applications**, exploring **AI projects
 
 ---
 
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:ff4d00&height=120&section=footer"/>
 </p>
