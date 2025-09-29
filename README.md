@@ -45,14 +45,6 @@ I’m passionate about **building modern applications**, exploring **AI projects
 🔹 [🚗 AutoTrack Vehicle Rental System](https://github.com/yourusername/autotrack) – Java-based project for managing vehicle rental services.  
 🔹 [🎓 Trainee Services Management System](https://github.com/yourusername/tsms) – Relational database system with ER diagrams, normalization, and SQL operations.  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
 ---
 
