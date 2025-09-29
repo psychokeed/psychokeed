@@ -80,7 +80,7 @@ I’m passionate about **building modern applications**, exploring **AI projects
 
 ---
 
-![Snake animation](https://github.com/psychokeed/psy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/psychokeed/psychokeed/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
