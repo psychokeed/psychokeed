@@ -66,7 +66,7 @@ I’m passionate about **building modern applications**, exploring **AI projects
 
 ## ✨ Dev Quote
 
-<p align="center">
+<p align="center">c
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
@@ -80,7 +80,7 @@ I’m passionate about **building modern applications**, exploring **AI projects
 
 ---
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/psychokeed/psy/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
