@@ -60,7 +60,7 @@ I’m passionate about **building modern applications**, exploring **AI projects
 
 - 📧 Email: **bnzuki4@gmail.com**  
 - 📱 Phone: **0713808022**  
-- 💼 LinkedIn: _(coming soon)_  
+ 
 
 ---
 
