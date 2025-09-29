@@ -56,6 +56,22 @@ I’m passionate about **building modern applications**, exploring **AI projects
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 - 📧 Email: **bnzuki4@gmail.com**  
