@@ -7,8 +7,7 @@
 
 💻 **Software Engineering Student | Full-Stack Developer in Training | Tech Enthusiast**
 
-I’m a Software Design & Programming student at **Borabu Technical Training Institute**  
-and currently on attachment at **Coseke Kenya**.  
+I’m a Software Engineering student at **Power Learn Project Africa**.  
 
 I’m passionate about **building modern applications**, exploring **AI projects**, and leveling up in the **MERN stack** and **Python**.
 
