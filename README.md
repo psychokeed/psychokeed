@@ -206,9 +206,8 @@ Personal portfolio showcasing projects and skills with modern UI/UX.
 
 [![Email](https://img.shields.io/badge/Email-bnzuki4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bnzuki4@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-0713808022-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254713808022)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-nzuki)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brian-nzuki.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/psychokeed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://preview--brian-builds-webs.lovable.app/)
 
 <br>
 
