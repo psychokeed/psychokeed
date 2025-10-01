@@ -103,7 +103,7 @@ A full-stack online bookstore with authentication, cart functionality, and payme
 
 **Tech:** MongoDB • Express • React • Node.js
 
-🔗 [View Project](https://github.com/yourusername/bookstore) | ⭐ Star
+🔗 [View Project](https://github.com/psychokeed/bookstore) | ⭐ Star
 
 </td>
 <td width="50%">
@@ -115,7 +115,7 @@ Modern facility management system with automated email notifications and booking
 
 **Tech:** JavaScript • Node.js • Email API
 
-🔗 [View Project](https://github.com/yourusername/safehouse) | ⭐ Star
+🔗 [View Project](https://github.com/psychokeed/safehouse) | ⭐ Star
 
 </td>
 </tr>
@@ -129,7 +129,7 @@ Real-time hand gesture recognition using MediaPipe and TensorFlow for sign langu
 
 **Tech:** Python • MediaPipe • TensorFlow • OpenCV
 
-🔗 [View Project](https://github.com/yourusername/sl-interpreter) | ⭐ Star
+🔗 [View Project](https://github.com/psychokeed/sl-interpreter) | ⭐ Star
 
 </td>
 <td width="50%">
@@ -141,7 +141,7 @@ Vehicle rental management system with inventory tracking and customer management
 
 **Tech:** Java • MySQL • Swing GUI
 
-🔗 [View Project](https://github.com/yourusername/autotrack) | ⭐ Star
+🔗 [View Project](https://github.com/psychokeed/autotrack) | ⭐ Star
 
 </td>
 </tr>
@@ -169,13 +169,13 @@ Personal portfolio showcasing projects and skills with modern UI/UX.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B35&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=psychokeed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=psychokeed&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B35&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psychokeed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=psychokeed&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
@@ -183,7 +183,7 @@ Personal portfolio showcasing projects and skills with modern UI/UX.
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=psychokeed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -223,7 +223,7 @@ Personal portfolio showcasing projects and skills with modern UI/UX.
   
   ### 💡 "The only way to do great work is to love what you do." - Steve Jobs
   
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=psychokeed&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
   
 </div>
 
@@ -233,7 +233,7 @@ Personal portfolio showcasing projects and skills with modern UI/UX.
 
 <div align="center">
   
-  ⭐️ **From [Brian Nzuki](https://github.com/yourusername) with ❤️**
+  ⭐️ **From [Brian Nzuki](https://github.com/psychokeed) with ❤️**
   
   *Last Updated: October 2025*
   
