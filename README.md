@@ -88,7 +88,7 @@ const brian = {
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Featured Projects  
 
 <div align="center">
 
@@ -96,47 +96,57 @@ const brian = {
 <tr>
 <td width="50%">
 
-### 📚 Product Store
-**MERN Stack | E-Commerce**
+### 📚 Product Store  
+**Full-Stack MERN | E-Commerce Platform**  
 
-A full-stack online store with authentication, cart functionality, and payment integration.
+A full-stack online store featuring **user authentication**, **product management**, **shopping cart**, and **payment integration**.  
+Deployed on **Vercel**, designed for scalability and performance.  
 
-**Tech:** MongoDB • Express • React • Node.js
+**Tech:** MongoDB • Express.js • React • Node.js • Vercel  
 
-🔗 [View Project](https://github.com/psychokeed/NAKS-STORE) | ⭐ Star
+🔗 [Live Demo](https://naks-store.vercel.app/) | [View Code](https://github.com/psychokeed/NAKS-STORE) | ⭐ Star  
 
 </td>
 <td width="50%">
 
-### 🏠 SafeHouse
-**Facility Management | Email Integration**
+### 🏠 SafeHouse  
+**Facility Management System | Email Integration**  
 
-Modern facility management system with automated email notifications and booking system.
+A smart facility management web app with **automated email notifications**, **booking management**, and **user-friendly dashboards** for tenants and administrators.  
 
-**Tech:** JavaScript • Node.js • Email API
+**Tech:** JavaScript • Node.js • PHP • Email API • MySQL  
 
-🔗 [View Project](https://github.com/psychokeed/safehouse) | ⭐ Star
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ✋ Sign Language Interpreter
-**AI/ML | Computer Vision**
+### ✋ Sign Language Interpreter *(In Progress)*  
+**AI/ML | Computer Vision | Accessibility**  
 
-Real-time hand gesture recognition using MediaPipe and TensorFlow for sign language translation.
+An AI-powered real-time **sign language interpreter** that detects and translates hand gestures using **MediaPipe**, **TensorFlow**, and **OpenCV**, integrated with a MERN-based frontend for visualization.  
 
-**Tech:** Python • MediaPipe • TensorFlow • OpenCV
-
-🔗 [View Project](https://github.com/psychokeed/sl-interpreter) | ⭐ Star
+**Tech:** Python • MediaPipe • TensorFlow • OpenCV • React • Node.js  
+ 
 
 </td>
 <td width="50%">
 
+### 🌐 Brainwave  
+**Modern React Website | UI/UX Showcase**  
+
+A futuristic, responsive **React website** featuring **smooth animations**, **video background**, and **AI-themed design** built to demonstrate creative front-end engineering.  
+
+**Tech:** React • Tailwind CSS • SASS • Vite • Render  
+
+🔗 [Live Demo](https://aichattingbrainwave.vercel.app/) | [View Code](https://github.com/psychokeed/brainwave) | ⭐ Star  
+
 </td>
 </tr>
 </table>
+
+</div>
 
 <details>
 <summary><b>🔍 View More Projects</b></summary>
