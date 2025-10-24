@@ -96,14 +96,14 @@ const brian = {
 <tr>
 <td width="50%">
 
-### 📚 Bookstore App
+### 📚 Product Store
 **MERN Stack | E-Commerce**
 
-A full-stack online bookstore with authentication, cart functionality, and payment integration.
+A full-stack online store with authentication, cart functionality, and payment integration.
 
 **Tech:** MongoDB • Express • React • Node.js
 
-🔗 [View Project](https://github.com/psychokeed/bookstore) | ⭐ Star
+🔗 [View Project](https://github.com/psychokeed/NAKS-STORE) | ⭐ Star
 
 </td>
 <td width="50%">
@@ -133,15 +133,6 @@ Real-time hand gesture recognition using MediaPipe and TensorFlow for sign langu
 
 </td>
 <td width="50%">
-
-### 🚗 AutoTrack
-**Java | System Design**
-
-Vehicle rental management system with inventory tracking and customer management.
-
-**Tech:** Java • MySQL • Swing GUI
-
-🔗 [View Project](https://github.com/psychokeed/autotrack) | ⭐ Star
 
 </td>
 </tr>
