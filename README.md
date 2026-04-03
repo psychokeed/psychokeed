@@ -171,11 +171,13 @@ Personal portfolio showcasing projects and skills with modern UI/UX.
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=psychokeed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=psychokeed&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B35&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  
+  <img width="49%" src="https://streak-stats.demolab.com?user=psychokeed&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B35&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psychokeed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" />
+  
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=psychokeed&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
